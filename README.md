@@ -15,10 +15,10 @@ A simple start for using vue2 with vite, using [underfin's vite-plugin-vue2](htt
 
 <p>
   <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="Tailwind CSS" width="350" height="70">
+    <img src="https://github.com/tailwindlabs/tailwindcss/blob/master/.github/logo-light.svg" alt="Tailwind CSS" width="350" height="70">
   </a>
   <a href="https://tailwindcss.com/#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
+    <img src="https://github.com/tailwindlabs/tailwindcss/blob/master/.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
   </a>
 </p>
 
