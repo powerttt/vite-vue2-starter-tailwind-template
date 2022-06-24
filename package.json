@@ -4,11 +4,16 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview --port 5001"
   },
   "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^9",
+    "flowbite": "^1.4.7",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vite-plugin-vue2": "^1.4.0",
-    "vue": "^2.6.12"
+    "vue": "2.6.12"
   },
   "devDependencies": {
     "vite": "^2.0.5"
